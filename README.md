@@ -1,5 +1,3 @@
-# Welcome
-
 Creative and Passionate Architect with 4+ years of Experience in both Industrial and Academic Field. I have completed Masters in Interior Architecture from CEPT University, Ahmadabad. 
 Currently Working as Revit Architect, involved in various International projects.
 My Core strength in Architecture field is 3D modelling applications such as AutoCAD, Trimble Sketch up, Revit, Rhino, visual programming using tools like Dynamo and Grasshopper. Also well versed in Python programming Languages in automating common tasks.
