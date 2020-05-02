@@ -10,4 +10,4 @@ Expert in Representation skills like Adobe InDesign and Adobe Photoshop.
 I demonstrate very good experience in  teaching in architecture department, as Assistant Professor in Manipal Institute of Technology, Manipal (India). where I managed a team of designers/Architects and coordinate various activities in both academic and administration. Along with this, I have worked as Freelance architect, which included Architecture and interior projects.
 I'm Seeking for position in both Architecture and Interior field, that provides platform to grow practicing field through continuous learning using creativity and skills through experiments.
 
-[Index](https://github.com/surabhihebbar/surabhihebbar/blob/master/index.md)
+[Index](Hi.md)
