@@ -1,0 +1,10 @@
+# basic options
+title: Surabhi Hebbar
+author: Surabhi
+email: your-email@domain.com
+description: My Projects
+github_username:  surabhihebbar
+
+# Build settings
+markdown: kramdown
+theme: minima
